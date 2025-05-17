@@ -52,6 +52,7 @@ After running the scripts, you'll find:
 
 ## Next Steps
 
+- working on handling imbalance data
 - Ensemble multiple models for better performance
 - Implement more advanced feature engineering
 - Deploy the model as an API
